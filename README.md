@@ -27,3 +27,15 @@ The program is written in **Rust** using the **Anchor framework** and **SPL Conf
    - LPs can **delegate voting power anonymously**.
 
 ---
+
+## 🔥 Key Features:
+✅ **Confidential Liquidity Staking** – LP balances remain **encrypted** using **SPL Confidential Tokens**.  
+✅ **zk-Proof-Based Confidential Transfers** – Prevents tracking of **liquidity contributions & rewards**.  
+✅ **Sybil-Resistant Identity Verification** – Uses **Merkle-based zk-SNARKs** to prevent **multi-account abuse**.  
+✅ **zk-Optimized MEV Protection** – Prevents **trade order manipulation & front-running**.  
+✅ **zk-Tiered Reward Multipliers** – Rewards LPs based on **staking duration** **without revealing exact amounts**.  
+✅ **Confidential Governance & Voting** – Users **vote anonymously** while ensuring fair outcomes.  
+✅ **zk-Staking Insurance Pool** – Provides **liquidity protection payouts privately** using zk-proofs.  
+✅ **zk-Layered Privacy Tiers** – LPs choose **privacy levels** (full anonymity, partial visibility, or full transparency).  
+
+---
