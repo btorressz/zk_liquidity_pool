@@ -39,3 +39,12 @@ The program is written in **Rust** using the **Anchor framework** and **SPL Conf
 ✅ **zk-Layered Privacy Tiers** – LPs choose **privacy levels** (full anonymity, partial visibility, or full transparency).  
 
 ---
+
+## 🛠️ Tech Stack:
+- **Solana (Rust + Anchor)** – Smart contract(program development.  
+- **SPL Confidential Token Program** – Enables confidential transfers.  
+- **zk-SNARKs / zk-STARKs** – Zero-knowledge cryptography for privacy.  
+- **Circom / Halo2 / Groth16 / Bulletproofs** – zk-proof generation & verification.  
+- **Solana Playground & VS Code** – Development environments.  
+
+---
